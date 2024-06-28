@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Chargeons le dataset
-df = pd.read_csv("Tache_2\Housing_cleaned.csv")
+df = pd.read_csv("./Housing_cleaned.csv")
 
 # Réalisons l'hstogramme
 

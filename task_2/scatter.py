@@ -8,7 +8,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Chargeons le dataset
-df = pd.read_csv("Tache_2\Housing_cleaned.csv")
+df = pd.read_csv("./Housing_cleaned.csv")
 
 # Réalisons le scatter
 
